@@ -18,4 +18,6 @@
 
 ## Домашние задания
 
-TODO
+<big><pre>
+    1.  [Домашнее задание 1](./homeworks/homework_01.ipynb)
+</pre></big>
