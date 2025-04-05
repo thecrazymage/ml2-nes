@@ -11,6 +11,8 @@
     6.  [Глубинное обучение в текстах](./lectures/lecture06_text.pdf)
     7.  [Рекуррентные нейронные сети](./lectures/lecture07-RNN.pdf)
     8.  [Генерация текста: Seq2seq](./lectures/lecture08-seq2seq.pdf)
+    9.  [Трансформеы](./lectures/lecture09-transformer.pdf)
+    10. [BERT, GPT](./lectures/lecture10-BERT,GPT.pdf)
 </pre></big>
 
 ## Семинары
@@ -20,6 +22,7 @@
     2.  [Простые нейронные сети](./seminars/seminar02-simple_nn.ipynb)
     3.  [Сверточные нейронные сети 1](./seminars/seminar03-cnn.ipynb)
     4.  [Сверточные нейронные сети 2](./seminars/seminar04-cnn_advanced.ipynb)
+    5.  [Word2Vec](./seminars/seminar05-w2v.ipynb)
 </pre></big>
 
 ## Домашние задания
