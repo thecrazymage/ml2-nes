@@ -29,5 +29,6 @@
 
 <big><pre>
     1.  [Домашнее задание 1](./homeworks/homework_01.ipynb)
-    1.  [Домашнее задание 2](./homeworks/homework_02.ipynb)
+    2.  [Домашнее задание 2](./homeworks/homework_02.ipynb)
+    3.  [Домашнее задание 3](./homeworks/homework_03.ipynb)
 </pre></big>
