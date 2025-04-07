@@ -13,6 +13,8 @@
     8.  [Генерация текста: Seq2seq](./lectures/lecture08-seq2seq.pdf)
     9.  [Трансформеы](./lectures/lecture09-transformer.pdf)
     10. [BERT, GPT](./lectures/lecture10-BERT,GPT.pdf)
+    11. [Modern vision architectures](./lectures/lecture11-modern_vision_architectures.pdf)
+    12. [Уменьшение размеров нейронных сетей](./lectures/lecture12-nn_size_decreasing.pdf)
 </pre></big>
 
 ## Семинары
@@ -23,6 +25,7 @@
     3.  [Сверточные нейронные сети 1](./seminars/seminar03-cnn.ipynb)
     4.  [Сверточные нейронные сети 2](./seminars/seminar04-cnn_advanced.ipynb)
     5.  [Word2Vec](./seminars/seminar05-w2v.ipynb)
+    6.  [Transformers](./seminars/seminar06-transformer.ipynb)
 </pre></big>
 
 ## Домашние задания
