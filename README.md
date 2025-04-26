@@ -15,6 +15,8 @@
     10. [BERT, GPT](./lectures/lecture10-BERT,GPT.pdf)
     11. [Modern vision architectures](./lectures/lecture11-modern_vision_architectures.pdf)
     12. [Уменьшение размеров нейронных сетей](./lectures/lecture12-nn_size_decreasing.pdf)
+    13. [GAN](./lectures/lecture13-GAN.pdf)
+    14. [Диффузионные модели](./lectures/lecture14-diffusion_models.pdf)
 </pre></big>
 
 ## Семинары
